@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+}
+
+#background-image {
+    background-image: url(../zairah/img.png);
+    margin: 0;
+    width: auto;
+    padding: 0;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#luffy {
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 130px;
+    color: rgb(238, 224, 224);
+    margin: 0%;
+    text-align: center;
+    top: 250px;
+    padding-left: 80px;
+    letter-spacing: l0px;
+}
+
+#content {
+    position: absolute;
+    padding-left: 780px;
+    padding-top: 420px;
+    font-size: 22px;
+    color: rgba(7, 4, 4, 0.945);
+    text-align: justify;
+}
+
+#logo-img {
+    position: absolute;
+    width: 150px;
+    padding-left: 1150px;
+    padding-top: 15px;
+    margin: 10px;
+}
+
+#image {
+    position: absolute;
+    width: 50px;
+    padding-left: 1300px;
+    padding-top: 0px;
+    margin: 0%;
+}
+
+#footer {
+    position: absolute;
+    padding-left: 150px;
+    top: 630px;
+    font-size: 15px;
+    color: black;
+}
